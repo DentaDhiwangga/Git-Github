@@ -1,0 +1,29 @@
+# Git-Github
+Mengenal Dan Mempelajari Apa Itu Git & Github
+GITHUB
+GitHub adalah layanan host web bersama yang menggunakan sistem kendali versi Git
+dan layanan hosting internet. GitHub memberikan kontrol akses dan beberapa fitur
+kolaborasi seperti pelacakan bug, manajemen tugas, dan wiki untuk setiap proyek.
+GitHub menawarkan paket repositori pribadi dan gratis digunakan untuk proyek perangkat
+lunak open source (sumber terbuka). GitHub mempunyai lebih dari 40 juta pengguna dan
+190 juta repositoriyang menjadikannya layanan terbesar dari kode sumber di dunia.
+•	GitHub adalah solusi wadah atau alat untuk berkolaborasi dengan tim ketika mengembangkan sebuah proyek repository.
+•	GitHub dapat memuat profil dan proyek Anda sehingga dapat dijadikan portofolio dalam berkarier.
+•	GitHub memiliki ratusan juta public repository yang dapat dijadikan referensi dalam mengembangkan perangkat lunak
+
+Fungsi Github yang paling utama adalah untuk memudahkan kolaborasi dalam menjalankan project.
+Dengan distributed version control, semua developer atau anggota tim bisa mengakses dan mengelola
+kode di satu tempat. Misalnya, melakukan review code bersama, diskusi perbaikan bug, dan sebagainya
+
+GIT
+Git merupakan software berbasis Version Control System (VCS) yang bertugas untuk mencatat perubahan seluruh file
+atau repository suatu project. Developer software biasa menggunakan Git untuk distributed revision (VCS terdistribusi),
+hal ini bertujuan untuk menyimpan database tidak hanya ke satu tempat. Namun semua orang yang terlibat dalam penyusunan
+kode dapat menyimpan database ini.
+Prosedur yang diterapkan ini dapat membantu antar divisi project untuk memantau dan menghubungkan (merge) antar
+ekstensi yang berbeda dengan mudah. Sehingga aplikasi yang dibuat oleh sebuah tim project dapat berfungsi
+tanpa menghubungkan secara manual.Terdapat istilah commit pada Git yang berfungsi untuk menyimpan riwayat 
+perubahan data pada file. Melalui commit, developer dapat kembali ke source code sebelumnya dengan istilah checkout.
+
+ Fungsi utama dari GIT adalah mengatur versi source code program dengan memberikan tanda baris serta code mana
+ yang perlu ditambah ataupun diganti.
